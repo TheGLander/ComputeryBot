@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "prefixAlias": ["!"],
+    "token": "TOKEN HERE",
+    "debug":true
+}
